@@ -7,3 +7,4 @@ Languages: HTML, CSS, JavaScript, Python, C#
 Database: SQL, Advanced Database Systems
 Tools & Platforms: Git, GitHub, Visual Studio, Cisco Packet Tracer
 Profile Views
+my name is isra
